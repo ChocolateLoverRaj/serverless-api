@@ -1,3 +1,4 @@
+// https://stackoverflow.com/questions/69164294/create-a-github-badge
 import pupa from 'pupa'
 import { readFileSync } from 'fs'
 import { join } from 'path'
